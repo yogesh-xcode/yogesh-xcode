@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **backend scaling, AI-driven feedback system, and UI/UX design for the same platform.**
 
-- 📝 I regularly write articles on [https://dev.to/yogesh_xcode](https://dev.to/yogesh_xcode)
+- 📝 I regularly write articles on [hashnode](https://yogesh-codes-xcode.hashnode.dev/)
 
 - 💬 Ask me about **react/Nextjs ,honojs/fastapi, vercel/cloudflare**
 
 - ⚡ Fun fact **My curiosity doesn’t ask for permission — if something’s interesting, I’ll drop everything and learn.**
 
-### Blogs posts
+<!-- ### Blogs posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
