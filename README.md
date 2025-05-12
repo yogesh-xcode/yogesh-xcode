@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">A frontend-focused developer from India, fluent in the JS/TS ecosystem and currently building real-world backends with Python and FastAPI — bridging the gap between sleek UIs and solid APIs.</h3>
+<h3 align="center">A Backend-focused developer from India, fluent in the JS/TS ecosystem and currently building real-world backends with Python and FastAPI — bridging the gap between sleek UIs and solid APIs.</h3>
 
 - 🔭 I’m currently working on [Authify](https://github.com/yogesh-xcode/Authify)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [hashnode](https://yogesh-codes-xcode.hashnode.dev/)
 
-- 💬 Ask me about **react/Nextjs ,honojs/fastapi, vercel/cloudflare**
+- 💬 Ask me about **react/Nextjs ,honojs/fastapi
 
 - ⚡ Fun fact **My curiosity doesn’t ask for permission — if something’s interesting, I’ll drop everything and learn.**
 
