@@ -1,71 +1,118 @@
-<h1 align="center">Hi 👋, I'm Yogesh</h1>
-<h3 align="center">
-  Backend-focused developer building scalable APIs, distributed systems, and AI-enhanced services using Laravel, FastAPI, Docker, and modern DevTools.
-</h3>
+<div align="center">
+
+```
+██╗   ██╗ ██████╗  ██████╗ ███████╗███████╗██╗  ██╗
+╚██╗ ██╔╝██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║
+ ╚████╔╝ ██║   ██║██║  ███╗█████╗  ███████╗███████║
+  ╚██╔╝  ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██║
+   ██║   ╚██████╔╝╚██████╔╝███████╗███████║██║  ██║
+   ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
+
+### Product Engineer · Chennai
+**Next.js · React · Laravel · FastAPI · TypeScript**
+
+*I own the full product — from UI to API to database to deployment.*
+
+[![Portfolio](https://img.shields.io/badge/yogeshbuilds.in-000000?style=for-the-badge&logo=safari&logoColor=white)](https://yogeshbuilds.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yogesh-xcode)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yogesh@yogeshbuilds.in)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-008CFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/yogesh-xcode/product-discovery-call)
+
+</div>
 
 ---
 
-- 🔐 Built [**Authify**](https://github.com/yogesh-xcode/Authify) — a stateless authentication system using **FastAPI**, **JWT**, **Tortoise ORM**, and **Docker** for clean modular auth.
+## Who I Am
 
-- ✅ Completed [**MediVault**](https://github.com/yogesh-xcode) — a full-stack medical record backend combining **Laravel + FastAPI**:
+I'm Yogesh — a **Technical Consultant & Product Engineer** based in Chennai who takes systems from zero to production and hands them back in a shape teams can actually own.
 
-  #### 🧩 How it works:
-  - 🔐 **Admin Auth (Laravel):** Admins register or log in to manage patient data.
-  - 🧍 **Patient & Report Management:** Add patients and upload reports (PDF/images), stored securely via **Laravel Filesystem**.
-  - 📤 **OCR Microservice (FastAPI):** Reports are sent to a **FastAPI** service using **Tesseract** for OCR.
-  - 🧠 **AI Structuring (Gemini API):** Extracted text is passed to **Gemini**, returned as structured JSON.
-  - 🗃️ **Data Storage:** JSON is stored in **MongoDB**; files remain in object-like storage.
-  - 🔍 **Frontend-Ready APIs:** Reports can be fetched by report type via Laravel endpoints.
+That means I understand your operations, plan the architecture, design the UI, build the backend, deploy it, and then make sure your team can use, modify, and iterate on it — without depending on me forever.
 
-  #### 🔧 Tech Stack:
-  Laravel, FastAPI, Tesseract, Gemini API, MongoDB, Filesystem, Docker, Scribe
-
-- 🌱 Currently learning advanced **Laravel architecture** and designing **multi-service systems** powered by **FastAPI + AI modules**.
-
-- 🤝 Looking to collaborate on:
-  - Backend-heavy systems
-  - AI-enhanced dev tools
-  - Laravel microservice integrations
-
-- 💼 Open to backend developer roles — especially in **SaaS**, **AI**, or **DevTool** teams.
-
-- 💬 Ask me about:  
-  **FastAPI**, **Laravel**, **Docker**, **Next.js**, **Hono.js**, **PostgreSQL**, and real-world API architecture.
-
-- ⚡ Fun fact:  
-  *"I don’t wait to be told what to build — I explore, prototype, and ship."*
+Currently engaged at **Vocman India** as a Technical Consultant — scoping, building, and enabling a full operations management platform for **Chennai Metro**.
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/yogesh-xcode" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-  </a>
-  
-  <a href="https://instagram.com/yogesh.self" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-</p>
+## Selected Work
+
+### 🚗 [Drivems Suite](https://github.com/yogesh-xcode/drivems-suite) — Staffing ERP
+> End-to-end HR operations platform for staffing workflows, records, and visibility.
+
+Built the complete product — from the Next.js interface to Supabase-backed data operations. Designed for daily operational use with a focus on clean UX and reliable data flows.
+
+`Next.js` `React` `TypeScript` `shadcn/ui` `Supabase`
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
+### 🏥 [MediVault](https://github.com/yogesh-xcode) — Patient Management System
+> Full-stack medical record platform with AI-assisted document processing.
+
+Built everything: the admin UI, the Laravel backend, and a FastAPI microservice pipeline that OCRs uploaded reports and structures the data using Gemini API.
+
+**Flow:** Upload report → Tesseract OCR → Gemini AI → Structured JSON → MongoDB → Laravel API → Frontend
+
+`Next.js` `Laravel` `FastAPI` `Python` `Tesseract` `Gemini API` `MongoDB` `Redis` `Docker`
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-xcode&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### 🔐 [Authify](https://github.com/yogesh-xcode/Authify) — Auth System
+> Clean, modular, containerized authentication service.
+
+Stateless JWT auth built with FastAPI and Tortoise ORM. Proper project structure, CI integration, Docker support, full test suite. Built to be dropped into any service.
+
+`FastAPI` `Python` `JWT` `Tortoise ORM` `Docker` `Pytest`
+
+---
+
+### 🌐 [yogeshbuilds.in](https://yogeshbuilds.in) — Personal Portfolio
+> Designed and built my own portfolio from scratch — the way I'd build a client product.
+
+Clean layout, responsive, fast, with a clear conversion goal. Everything I apply to client work, applied to my own brand.
+
+`Next.js` `TypeScript` `Tailwind CSS`
+
+---
+
+## Full Stack — What That Actually Means For Me
+
+| Layer | What I Build | Tools |
+|---|---|---|
+| **UI / Frontend** | Interfaces, dashboards, ERP screens, responsive layouts | Next.js · React · TypeScript · shadcn/ui · Tailwind |
+| **Backend / API** | REST APIs, service layers, auth, business logic | Laravel · FastAPI · Node.js · Hono.js |
+| **Data** | Schema design, query optimization, multi-DB architectures | MySQL · MariaDB · MongoDB · PostgreSQL · Redis |
+| **Integrations** | OCR pipelines, AI APIs, third-party services | Gemini API · Tesseract · Supabase · REST |
+| **DevOps** | Containerization, deployment, environment config | Docker · Linux · Git · FTP |
+
+---
+
+## Currently
+
+- 🏗️ Technical Consultant at **Vocman India** — scoping, building & enabling the Chennai Metro ops platform
+- 📖 Going deeper on **Next.js architecture** and **multi-service system design**
+- 🤝 Open to collaborating on **SaaS products**, **AI-powered tools**, and **ERP builds**
+- 💼 Available for **full-time Product Engineer roles** and **consulting engagements**
+
+---
+
+## How I Work
+
+> *"I don't wait to be told what to build — I explore, prototype, and ship."*
+
+- **End-to-end ownership** — UI, API, DB, deployment. I handle the full stack so nothing falls between the cracks.
+- **Communication first** — Weekly updates, shared staging from day one. You always know where things stand.
+- **Scope discipline** — I scope tightly so I can move fast without cutting corners.
+- **Clean handoffs** — Documented code, structured repos, deployments you can actually maintain.
+
+---
+
+<div align="center">
+
+**Building something? Let's talk.**
+
+📩 [yogesh@yogeshbuilds.in](mailto:yogesh@yogeshbuilds.in) · 🌐 [yogeshbuilds.in](https://yogeshbuilds.in) · 📅 [Book a discovery call](https://calendly.com/yogesh-xcode/product-discovery-call)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yogesh-xcode&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true)
+
+</div>
