@@ -35,7 +35,7 @@ Currently engaged at **Vocman India** as a Technical Consultant — scoping, bui
 
 ## Selected Work
 
-### 🚗 [Drivems Suite](https://github.com/yogesh-xcode/drive-management-service) — Staffing ERP
+### 🚗 [Drivems Suite](https://github.com/yogesh-xcode/drive-management-system) — Staffing ERP
 > End-to-end HR operations platform for staffing workflows, records, and visibility.
 
 Built the complete product — from the Next.js interface to Supabase-backed data operations. Designed for daily operational use with a focus on clean UX and reliable data flows.
